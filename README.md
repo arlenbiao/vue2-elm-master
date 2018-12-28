@@ -68,15 +68,6 @@ npm run dev
 <img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/login.gif" width="365" height="619"/>
 
 
-### 个人中心
-
-<img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/profile.png" width="365" height="619"/> <img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/profile.gif" width="365" height="619"/>
-
-
-
-
-
-
 # 项目布局
 
 ```
